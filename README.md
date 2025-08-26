@@ -1,0 +1,2 @@
+-This is basic project message
+-https://github.com/Seaniity/For-Lovey
